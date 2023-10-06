@@ -1,0 +1,23 @@
+census,data,sample
+,,
+,,
+,,
+Region,Range,All people
+Cherryville,Under 1,30000
+Cherryville,1,32000
+Cherryville,5,28500
+Cherryville,50,19000
+Cherryville,89,5000
+Cherryville,95 and over,1200
+Appleburgh,Under 1,24000
+Appleburgh,1,22000
+Appleburgh,5,23500
+Appleburgh,50,14000
+Appleburgh,89,4300
+Appleburgh,95 and over,950
+Pearlin,Under 1,9000
+Pearlin,1,8500
+Pearlin,5,8700
+Pearlin,50,5600
+Pearlin,89,1200
+Pearlin,95 and over,70
